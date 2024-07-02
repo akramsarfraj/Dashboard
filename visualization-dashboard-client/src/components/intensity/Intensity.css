@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.intensity{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.bar-chart{
+ 
+    height: 600px;
+    width: 1000px;
+}

@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.graph-r{
+    border:  1px solid rgb(219, 216, 216);
+    border-radius: 5px ;
+    
+    width: 700px;
+    display: inline-block;
+}
+
+.test{
+    width: 700px;
+    border:  1px solid rgb(219, 216, 216);
+    border-radius: 5px ;
+}
+.mid-section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.inten-sity{
+   margin: 10px  36px 10px 36px;
+    border:  1px solid rgb(219, 216, 216);
+    border-radius: 5px ;
+}
+.likeli-hood{
+    margin: 10px  36px 10px 36px;
+    border:  1px solid rgb(219, 216, 216);
+    border-radius: 5px ;
+}

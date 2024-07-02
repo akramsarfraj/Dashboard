@@ -1,0 +1,3 @@
+go to "visualization-dashboard-client" folder  ----------- open terminal & type --------  npm install ------- npm start(to start app)
+
+go to "visualization-dashboard-server" folder  ----------- open terminal & type --------  npm install ------- nodemon(to start server)
